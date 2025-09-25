@@ -21,6 +21,9 @@ The freelance journey has honed my ability to collaborate directly with clients,
 | **Tools & Platform** | `Git` `Github` `VS Code` `Postman (API testing)` `Figma` |
 
 ---
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🔍 Spotlight Projects
 
