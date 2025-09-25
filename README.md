@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aniket Pati
+# 👋 Hi, I’m Aniket Patil
 
 I’m a Web Developer with hands-on experience designing and deploying scalable, high-performance applications using React.js, Next.js, Node.js, Express.js, and SQL. With an MTech from NIT Rourkela and 1+ year of experience as a freelancer on Fiverr, I specialize in building responsive UIs, clean architectures, and production-ready solutions that deliver seamless user experiences.
 
